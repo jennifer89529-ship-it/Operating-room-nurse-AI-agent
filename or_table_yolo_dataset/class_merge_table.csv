@@ -1,0 +1,12 @@
+﻿class_id,english_name,chinese_name,display_name
+0,hemostatic_forceps,止血鉗,止血鉗 / hemostatic_forceps
+1,forceps,鑷子,鑷子 / forceps
+2,needle_holder,持針器,持針器 / needle_holder
+3,scissors,手術剪,手術剪 / scissors
+4,retractor,撐開器,撐開器 / retractor
+5,clamp,夾鉗,夾鉗 / clamp
+6,scalpel_handle,刀柄,刀柄 / scalpel_handle
+7,suction_tube,吸引管或管路,吸引管或管路 / suction_tube
+8,basin_bowl,彎盆或碗盤,彎盆或碗盤 / basin_bowl
+9,needle_probe,探針或針類,探針或針類 / needle_probe
+10,other,其他,其他 / other

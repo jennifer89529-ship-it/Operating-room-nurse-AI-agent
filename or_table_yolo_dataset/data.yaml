@@ -1,0 +1,30 @@
+﻿path: C:/Users/user/Desktop/yolo_adjust/or_table_yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: hemostatic_forceps
+  1: forceps
+  2: needle_holder
+  3: scissors
+  4: retractor
+  5: clamp
+  6: scalpel_handle
+  7: suction_tube
+  8: basin_bowl
+  9: needle_probe
+  10: other
+
+display_names:
+  0: 止血鉗 / hemostatic_forceps
+  1: 鑷子 / forceps
+  2: 持針器 / needle_holder
+  3: 手術剪 / scissors
+  4: 撐開器 / retractor
+  5: 夾鉗 / clamp
+  6: 刀柄 / scalpel_handle
+  7: 吸引管或管路 / suction_tube
+  8: 彎盆或碗盤 / basin_bowl
+  9: 探針或針類 / needle_probe
+  10: 其他 / other

@@ -1,0 +1,11 @@
+﻿index,split,dataset_image,procedure,department,annotation_status,suggested_classes,notes
+1,train,or_table_01.jpg,PTA周邊動靜脈血管整形術,心臟血管外科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+2,train,or_table_02.jpg,口腔腫瘤切除（Oral tumor excision）,口腔外科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+3,train,or_table_03.jpg,白內障手術（Cataract）,眼科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+4,train,or_table_04.jpg,人工血管置放術（Port-A）,一般外科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+5,train,or_table_05.jpg,肛門膿瘍切開術,大腸直腸外科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+6,train,or_table_06.jpg,子宮肌瘤切除術（基本器械組）,婦產科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+7,train,or_table_07.jpg,子宮肌瘤切除術（完整器械組）,婦產科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+8,val,or_table_08.jpg,子宮肌瘤切除術（含 self-retractor）,婦產科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+9,val,or_table_09.jpg,子宮肌瘤切除術（含 self-retractor 進階）,婦產科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框
+10,test,or_table_10.jpg,動靜脈血管吻合術（A-V shunt）,心臟血管外科,todo,hemostatic_forceps; forceps; needle_holder; scissors; retractor; clamp; scalpel_handle; suction_tube; basin_bowl; needle_probe; other,先標主要手術器械；尺、背景、布單不要框

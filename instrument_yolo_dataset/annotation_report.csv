@@ -1,0 +1,77 @@
+﻿source_file,output_image,output_label,class_id,class_name,department,purpose,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+3.jpg,instrument_yolo_dataset\images\train\003.jpg,instrument_yolo_dataset\labels\train\003.txt,0,adson teeth,通用,,130,34,194,252
+4.jpg,instrument_yolo_dataset\images\train\004.jpg,instrument_yolo_dataset\labels\train\004.txt,1,teeth,通用,,45,135,263,178
+5.jpg,instrument_yolo_dataset\images\train\005.jpg,instrument_yolo_dataset\labels\train\005.txt,2,towel clip,通用,,47,19,237,282
+6.jpg,instrument_yolo_dataset\images\train\006.jpg,instrument_yolo_dataset\labels\train\006.txt,3,No.3刀柄,通用,,25,105,258,155
+7.jpg,instrument_yolo_dataset\images\train\007.jpg,instrument_yolo_dataset\labels\train\007.txt,4,mosquito,通用,,50,50,210,260
+8.jpg,instrument_yolo_dataset\images\train\008.jpg,instrument_yolo_dataset\labels\train\008.txt,5,small curve,通用,,55,17,206,255
+9.jpg,instrument_yolo_dataset\images\train\009.jpg,instrument_yolo_dataset\labels\train\009.txt,6,中直,通用,,20,38,270,232
+11.jpg,instrument_yolo_dataset\images\train\011.jpg,instrument_yolo_dataset\labels\train\011.txt,7,metzenbaum,通用,,60,132,290,220
+12.jpg,instrument_yolo_dataset\images\train\012.jpg,instrument_yolo_dataset\labels\train\012.txt,8,smooth,通用,,43,126,273,171
+13.jpg,instrument_yolo_dataset\images\train\013.jpg,instrument_yolo_dataset\labels\train\013.txt,1,teeth,通用,,45,136,265,184
+14.jpg,instrument_yolo_dataset\images\train\014.jpg,instrument_yolo_dataset\labels\train\014.txt,9,needle holder,通用,,98,28,213,252
+15.jpg,instrument_yolo_dataset\images\train\015.jpg,instrument_yolo_dataset\labels\train\015.txt,10,ring forceps,通用,,18,128,273,207
+16.jpg,instrument_yolo_dataset\images\train\016.jpg,instrument_yolo_dataset\labels\train\016.txt,11,smallest,通用,,91,35,207,252
+18.jpg,instrument_yolo_dataset\images\train\018.jpg,instrument_yolo_dataset\labels\train\018.txt,12,curette,通用,,104,42,170,277
+29.jpg,instrument_yolo_dataset\images\train\029.jpg,instrument_yolo_dataset\labels\train\029.txt,13,TCR內芯,婦產科,,141,8,300,300
+30.jpg,instrument_yolo_dataset\images\train\030.jpg,instrument_yolo_dataset\labels\train\030.txt,14,TCR working,婦產科,,47,71,252,238
+33.jpg,instrument_yolo_dataset\images\train\033.jpg,instrument_yolo_dataset\labels\train\033.txt,15,水接頭,婦產科,,126,101,191,178
+36.jpg,instrument_yolo_dataset\images\train\036.jpg,instrument_yolo_dataset\labels\train\036.txt,16,GYN curette,婦產科,,108,10,219,295
+37.jpg,instrument_yolo_dataset\images\train\037.jpg,instrument_yolo_dataset\labels\train\037.txt,16,GYN curette,婦產科,,108,10,219,295
+38.jpg,instrument_yolo_dataset\images\train\038.jpg,instrument_yolo_dataset\labels\train\038.txt,16,GYN curette,婦產科,,108,10,219,295
+39.jpg,instrument_yolo_dataset\images\train\039.jpg,instrument_yolo_dataset\labels\train\039.txt,17,鴨嘴,婦產科,,79,30,234,300
+40.jpg,instrument_yolo_dataset\images\train\040.jpg,instrument_yolo_dataset\labels\train\040.txt,18,單鉤,婦產科,,78,14,205,300
+41.jpg,instrument_yolo_dataset\images\train\041.jpg,instrument_yolo_dataset\labels\train\041.txt,19,Uterine sounding,婦產科,,134,14,168,280
+42.jpg,instrument_yolo_dataset\images\train\042.jpg,instrument_yolo_dataset\labels\train\042.txt,20,long smooth,婦產科,,88,32,300,300
+43.jpg,instrument_yolo_dataset\images\train\043.jpg,instrument_yolo_dataset\labels\train\043.txt,21,胎盤鉗,婦產科,,60,29,220,285
+44.jpg,instrument_yolo_dataset\images\train\044.jpg,instrument_yolo_dataset\labels\train\044.txt,22,dilator,婦產科,,4,78,282,269
+45.jpg,instrument_yolo_dataset\images\train\045.jpg,instrument_yolo_dataset\labels\train\045.txt,22,dilator,婦產科,,4,78,282,269
+46.jpg,instrument_yolo_dataset\images\train\046.jpg,instrument_yolo_dataset\labels\train\046.txt,10,ring forceps,通用,,85,30,210,288
+51.jpg,instrument_yolo_dataset\images\train\051.jpg,instrument_yolo_dataset\labels\train\051.txt,23,pin 接頭,骨科,,0,46,300,300
+55.jpg,instrument_yolo_dataset\images\train\055.jpg,instrument_yolo_dataset\labels\train\055.txt,24,drill,骨科,,0,0,300,300
+56.jpg,instrument_yolo_dataset\images\train\056.jpg,instrument_yolo_dataset\labels\train\056.txt,25,鼻淚管探針Lacrimal probe 0,眼科,,119,20,158,253
+57.jpg,instrument_yolo_dataset\images\train\057.jpg,instrument_yolo_dataset\labels\train\057.txt,26,鼻淚管探針Lacrimal probe 1,眼科,,124,22,162,260
+58.jpg,instrument_yolo_dataset\images\train\058.jpg,instrument_yolo_dataset\labels\train\058.txt,27,鼻淚管探針Lacrimal probe 2,眼科,,119,22,155,258
+59.jpg,instrument_yolo_dataset\images\train\059.jpg,instrument_yolo_dataset\labels\train\059.txt,28,鼻淚管探針Lacrimal probe 4,眼科,,127,33,165,270
+60.jpg,instrument_yolo_dataset\images\train\060.jpg,instrument_yolo_dataset\labels\train\060.txt,29,鼻淚管探針Lacrimal probe 5,眼科,,120,14,166,260
+61.jpg,instrument_yolo_dataset\images\train\061.jpg,instrument_yolo_dataset\labels\train\061.txt,30,眼科smooth,眼科,,130,59,170,256
+62.jpg,instrument_yolo_dataset\images\train\062.jpg,instrument_yolo_dataset\labels\train\062.txt,31,micro scissor,眼科,,105,33,184,291
+63.jpg,instrument_yolo_dataset\images\train\063.jpg,instrument_yolo_dataset\labels\train\063.txt,32,.12,眼科,,122,70,166,254
+64.jpg,instrument_yolo_dataset\images\train\064.jpg,instrument_yolo_dataset\labels\train\064.txt,33,bull dog,心臟血管外科,,112,78,162,202
+65.jpg,instrument_yolo_dataset\images\train\065.jpg,instrument_yolo_dataset\labels\train\065.txt,34,眼科Lacrimal needle 沖洗針,眼科,,117,71,158,217
+66.jpg,instrument_yolo_dataset\images\train\066.jpg,instrument_yolo_dataset\labels\train\066.txt,35,眼科Retrobulbar needle 球後麻醉針,眼科,,126,91,152,217
+67.jpg,instrument_yolo_dataset\images\train\067.jpg,instrument_yolo_dataset\labels\train\067.txt,36,眼科Lacrimal dilator 淚管擴張器,眼科,,123,67,159,231
+68.jpg,instrument_yolo_dataset\images\train\068.jpg,instrument_yolo_dataset\labels\train\068.txt,37,勾血管 靜脈曲張,心臟血管外科,,127,10,160,286
+69.jpg,instrument_yolo_dataset\images\train\069.jpg,instrument_yolo_dataset\labels\train\069.txt,38,勾血管 靜脈曲張(雙頭),心臟血管外科,,127,1,267,300
+70.jpg,instrument_yolo_dataset\images\train\070.jpg,instrument_yolo_dataset\labels\train\070.txt,39,Speculum 張眼器,眼科,,83,110,228,218
+76.jpg,instrument_yolo_dataset\images\train\076.jpg,instrument_yolo_dataset\labels\train\076.txt,40,T-awl,骨科,,0,0,300,300
+79.jpg,instrument_yolo_dataset\images\train\079.jpg,instrument_yolo_dataset\labels\train\079.txt,4,mosquito,通用,,42,54,218,244
+80.jpg,instrument_yolo_dataset\images\train\080.jpg,instrument_yolo_dataset\labels\train\080.txt,41,小線剪,通用,,82,54,196,248
+81.jpg,instrument_yolo_dataset\images\train\081.jpg,instrument_yolo_dataset\labels\train\081.txt,41,小線剪,通用,,66,54,204,254
+83.jpg,instrument_yolo_dataset\images\train\083.jpg,instrument_yolo_dataset\labels\train\083.txt,42,撐眼器,眼科,,17,115,275,164
+84.jpg,instrument_yolo_dataset\images\train\084.jpg,instrument_yolo_dataset\labels\train\084.txt,43,.3 teeth,眼科,,116,82,159,239
+85.jpg,instrument_yolo_dataset\images\train\085.jpg,instrument_yolo_dataset\labels\train\085.txt,30,眼科smooth,眼科,,122,65,171,282
+86.jpg,instrument_yolo_dataset\images\train\086.jpg,instrument_yolo_dataset\labels\train\086.txt,32,.12,眼科,,119,70,173,247
+87.jpg,instrument_yolo_dataset\images\train\087.jpg,instrument_yolo_dataset\labels\train\087.txt,44,60度 forceps,眼科,,119,69,168,268
+88.jpg,instrument_yolo_dataset\images\train\088.jpg,instrument_yolo_dataset\labels\train\088.txt,3,No.3刀柄,通用,,24,104,256,160
+89.jpg,instrument_yolo_dataset\images\train\089.jpg,instrument_yolo_dataset\labels\train\089.txt,45,眼科skin hook,眼科,,0,110,265,155
+90.jpg,instrument_yolo_dataset\images\train\090.jpg,instrument_yolo_dataset\labels\train\090.txt,46,眼瞼板,眼科,,25,85,252,163
+91.jpg,instrument_yolo_dataset\images\train\091.jpg,instrument_yolo_dataset\labels\train\091.txt,47,眼科 micro scissor,眼科,,38,96,240,194
+92.jpg,instrument_yolo_dataset\images\train\092.jpg,instrument_yolo_dataset\labels\train\092.txt,48,Eyelid retractor 眼瞼鉤,眼科,,6,119,275,172
+93.jpg,instrument_yolo_dataset\images\train\093.jpg,instrument_yolo_dataset\labels\train\093.txt,49,眼科 micro needle holder,眼科,,0,92,263,183
+94.jpg,instrument_yolo_dataset\images\train\094.jpg,instrument_yolo_dataset\labels\train\094.txt,50,眼科量角器 Caliper,眼科,,88,28,166,252
+95.jpg,instrument_yolo_dataset\images\train\095.jpg,instrument_yolo_dataset\labels\train\095.txt,51,眼科直mosquito,眼科,,36,38,246,246
+96.jpg,instrument_yolo_dataset\images\train\096.jpg,instrument_yolo_dataset\labels\train\096.txt,52,眼科彎mosquito,眼科,,36,34,236,246
+97.jpg,instrument_yolo_dataset\images\train\097.jpg,instrument_yolo_dataset\labels\train\097.txt,41,小線剪,通用,,44,60,232,214
+98.jpg,instrument_yolo_dataset\images\train\098.jpg,instrument_yolo_dataset\labels\train\098.txt,53,小銳剪,通用,,22,50,258,205
+99.jpg,instrument_yolo_dataset\images\train\099.jpg,instrument_yolo_dataset\labels\train\099.txt,54,眼科Desmarres 麥粒腫夾,眼科,,41,99,241,204
+100.jpg,instrument_yolo_dataset\images\train\100.jpg,instrument_yolo_dataset\labels\train\100.txt,55,眼科 提上瞼肌夾 Berke Ptosis Clamp,眼科,,41,97,241,191
+101.jpg,instrument_yolo_dataset\images\train\101.jpg,instrument_yolo_dataset\labels\train\101.txt,42,撐眼器,眼科,,36,122,279,168
+107.jpg,instrument_yolo_dataset\images\train\107.jpg,instrument_yolo_dataset\labels\train\107.txt,56,眼科異物剷 Golf Club Foreign Body Spud,眼科,,0,45,176,255
+108.jpg,instrument_yolo_dataset\images\train\108.jpg,instrument_yolo_dataset\labels\train\108.txt,57,skid,骨科,,3,0,166,300
+109.jpg,instrument_yolo_dataset\images\train\109.jpg,instrument_yolo_dataset\labels\train\109.txt,56,眼科異物剷 Golf Club Foreign Body Spud,眼科,,113,18,186,279
+112.jpg,instrument_yolo_dataset\images\train\112.jpg,instrument_yolo_dataset\labels\train\112.txt,3,No.3刀柄,通用,,121,47,172,257
+113.jpg,instrument_yolo_dataset\images\train\113.jpg,instrument_yolo_dataset\labels\train\113.txt,58,骨水泥注射器 Cement Injector,骨科,,10,0,300,251
+118.jpg,instrument_yolo_dataset\images\train\118.jpg,instrument_yolo_dataset\labels\train\118.txt,56,眼科異物剷 Golf Club Foreign Body Spud,眼科,,107,29,173,267
+119.jpg,instrument_yolo_dataset\images\train\119.jpg,instrument_yolo_dataset\labels\train\119.txt,57,skid,骨科,,3,0,166,300
+123.jpg,instrument_yolo_dataset\images\train\123.jpg,instrument_yolo_dataset\labels\train\123.txt,59,Z 形膝關節牽開器 Z Knee Retractor,骨科,,74,92,237,253

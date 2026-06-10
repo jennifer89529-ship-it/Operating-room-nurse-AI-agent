@@ -1,0 +1,59 @@
+﻿術式,科別,圖片檔名,對應器械盤,器械名稱,數量,YOLO英文類別,YOLO中文類別
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Barraquer Wire Speculum(張眼器),1,retractor,撐開器
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Chopper,1,other,其他
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Dressing Smooth Forceps,1,forceps,鑷子
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,0.12 Micro Forceps,1,forceps,鑷子
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Tying Forceps,1,forceps,鑷子
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,C.C.C. Forceps,1,forceps,鑷子
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Tenotomy Scissors,1,scissors,手術剪
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Needle Holder,1,needle_holder,持針器
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Eye Scissors Straight,1,scissors,手術剪
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Two Way,1,other,其他
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Cata Set,Cleaver,1,other,其他
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Handpiece Set,Hand pice + Tip,2,suction_tube,吸引管或管路
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Handpiece Set,I&A Handpiece + Tip,2,suction_tube,吸引管或管路
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Handpiece Set,Key,2,other,其他
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Handpiece Set,S1 推進器,1,other,其他
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Handpiece Set,Tip 藍色保護套,2,suction_tube,吸引管或管路
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Handpiece Set,白色接頭,1,other,其他
+白內障手術（Cataract）,眼科,S__107593749_0.jpg,Phaco Handpiece Set,保護套,2,other,其他
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Small Curved kelly,2,hemostatic_forceps,止血鉗
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Curved Mosquito,2,hemostatic_forceps,止血鉗
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Towel clip,2,clamp,夾鉗
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Needle holder,1,needle_holder,持針器
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Medium Straight kelly,1,hemostatic_forceps,止血鉗
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Scissors Straight,1,scissors,手術剪
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Short forceps Teeth,1,forceps,鑷子
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Short forceps Smoth,1,forceps,鑷子
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Adson forceps Smoth,1,forceps,鑷子
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Adson forceps Teeth,2,forceps,鑷子
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Smallest,2,other,其他
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,3號刀柄,1,scalpel_handle,刀柄
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set,Suction Tip,1,suction_tube,吸引管或管路
+人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,Suture Set + 人工追加,Towel clip,5,clamp,夾鉗
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Towel Clamp,4,clamp,夾鉗
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Curved Mosquito,6,hemostatic_forceps,止血鉗
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Small Curved Kelly,3,hemostatic_forceps,止血鉗
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Medium Curved Kelly,1,hemostatic_forceps,止血鉗
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Right Angle,1,other,其他
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Satinsky+Cooley,3,clamp,夾鉗
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Suture Tap,1,other,其他
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Needle Holder,1,needle_holder,持針器
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Metzenbaum Scissor,1,scissors,手術剪
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Suture Scissor,1,scissors,手術剪
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Ring Forceps,1,forceps,鑷子
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Self Retractor,1,retractor,撐開器
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Smallest Retractor,2,retractor,撐開器
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Knife No.3、No.7,2,other,其他
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Adson Smooth Forceps,2,forceps,鑷子
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Short Smooth Forceps,1,forceps,鑷子
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Straight Micro Forceps,1,forceps,鑷子
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Curved Micro Forceps,0,forceps,鑷子
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Micro Needle Holder,2,needle_holder,持針器
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Pott's Scissor,1,scissors,手術剪
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Bull Dog (直2彎2),4,other,其他
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Heparin Needle,1,needle_probe,探針或針類
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Probe No.0.5/1/1.5/2/2.5,5,needle_probe,探針或針類
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,Suction Tip,1,suction_tube,吸引管或管路
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,debakey Forceps,1,forceps,鑷子
+動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,A-V Shunt Set,鐵圓盤,1,other,其他

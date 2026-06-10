@@ -1,0 +1,11 @@
+﻿index,procedure,department,source_file,split,dataset_image,note
+1,PTA周邊動靜脈血管整形術,心臟血管外科,S__107593747_0.jpg,train,or_table_01.jpg,依 Word 文件術式分組整理，待逐張框選器械
+2,口腔腫瘤切除（Oral tumor excision）,口腔外科,S__107593748_0.jpg,train,or_table_02.jpg,依 Word 文件術式分組整理，待逐張框選器械
+3,白內障手術（Cataract）,眼科,S__107593749_0.jpg,train,or_table_03.jpg,依 Word 文件術式分組整理，待逐張框選器械
+4,人工血管置放術（Port-A）,一般外科,S__107593750_0.jpg,train,or_table_04.jpg,依 Word 文件術式分組整理，待逐張框選器械
+5,肛門膿瘍切開術,大腸直腸外科,S__107593751_0.jpg,train,or_table_05.jpg,依 Word 文件術式分組整理，待逐張框選器械
+6,子宮肌瘤切除術（基本器械組）,婦產科,S__107593752_0.jpg,train,or_table_06.jpg,依 Word 文件術式分組整理，待逐張框選器械
+7,子宮肌瘤切除術（完整器械組）,婦產科,S__107593753_0.jpg,train,or_table_07.jpg,依 Word 文件術式分組整理，待逐張框選器械
+8,子宮肌瘤切除術（含 self-retractor）,婦產科,S__107593754_0.jpg,val,or_table_08.jpg,依 Word 文件術式分組整理，待逐張框選器械
+9,子宮肌瘤切除術（含 self-retractor 進階）,婦產科,S__107593755_0.jpg,val,or_table_09.jpg,依 Word 文件術式分組整理，待逐張框選器械
+10,動靜脈血管吻合術（A-V shunt）,心臟血管外科,S__107593757.jpg,test,or_table_10.jpg,依 Word 文件術式分組整理，待逐張框選器械

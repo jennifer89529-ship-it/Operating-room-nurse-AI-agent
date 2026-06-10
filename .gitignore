@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.tmp
+*.log
+outputs/
+.agents/
+.codex/
+
+# Optional large/private artifacts
+*.zip
+*.pptx
+*.docx
+*.xlsx
+器械盤名細_來源.xlsx
+需要的術式器械_更正版.xlsx
+
+# Keep CSV/YAML/code source visible for reproducibility.
+!*.csv
+!*.yaml
+!report_outputs/*.pptx
