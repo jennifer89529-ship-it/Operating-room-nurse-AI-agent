@@ -20,4 +20,3 @@ outputs/
 # Keep CSV/YAML/code source visible for reproducibility.
 !*.csv
 !*.yaml
-!report_outputs/*.pptx

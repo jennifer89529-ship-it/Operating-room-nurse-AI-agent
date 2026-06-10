@@ -43,7 +43,7 @@
 | `procedure_instrument_checklist_更正版.xlsx` | 三術式與完整清單整理後的 Excel |
 | `procedure_instrument_checklist.csv` | 系統可讀的器械清單 |
 | `selected_procedure_items.csv` | 本次展示三術式的器械項目 |
-| `report_outputs/` | 報告 PPT、逐字稿與圖表素材 |
+| `report_outputs/` | 報告圖表素材 |
 
 ## 報告素材
 
